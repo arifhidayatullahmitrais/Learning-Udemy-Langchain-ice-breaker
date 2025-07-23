@@ -1,4 +1,5 @@
-# 🧊 Ice Breaker
+# 🧊 Learning AI Agent from Udemy
+## https://www.udemy.com/course/langchain
 
 This project is a **full-stack generative AI application** that uses LangChain agents, output parsers, and a front-end to generate meaningful icebreaker summaries from LinkedIn profiles. The app takes a **name** as input, searches LinkedIn for the matching profile, extracts and cleans the data, then uses LLMs to summarize it and return structured information.
 
